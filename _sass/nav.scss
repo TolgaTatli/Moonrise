@@ -29,7 +29,7 @@
 		cursor: pointer;
 		outline: none;
 		@include border-radius(0,3px,0,0);
-		opacity: 0.6;
+		opacity: 1;
 		@media #{$notsmall} {
 			@include border-radius(3px,3px,3px,3px);
 		}
