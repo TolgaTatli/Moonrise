@@ -14,8 +14,12 @@
     }
 }
 .social-btn {
-    padding: 10px;
-    margin: 10px;
+    padding: 6.46px;
+    margin: 6.46px;
+    border-radius: 100%;
+    
+    border: 0.1px solid rgba(0, 0, 0, 0.208);
+    opacity: 0.88;
     @extend %btnextend;
 }
 .btn {
@@ -164,7 +168,9 @@ img {
     width: 150px;
 }
 .author-photo {
-    background-color: $white;
+    background-color: transparent;
+    width: 55%;
+    margin-top: 9.5px;
 }
 .image-right {
     float: right;
