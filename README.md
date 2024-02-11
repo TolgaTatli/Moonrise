@@ -2,7 +2,7 @@
 
 ###### (If you like this theme or using it, please give a :star: for motivation.)
 
-🌓 Moonrise is a fresh take on the classic **[Moon](https://taylantatli.github.io/Moon)** theme, with a modern design, improved responsiveness, and more customization options.
+🌓 Moonrise is a fresh take on the classic **[Moon](https://Taylantatli/Moon)** theme, with a modern design, improved responsiveness, and more customization options.
 
 ## Features
 
