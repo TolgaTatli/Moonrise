@@ -26,7 +26,7 @@
 		width: 48px;
 		height: 45px;
 		text-indent: -900em;
-		background-color: transparent;
+		background-color: rgb(114, 114, 114);
 		overflow: hidden;
 		position: relative;
 		cursor: pointer;
@@ -35,6 +35,7 @@
 		opacity: 1;
 		@media #{$notsmall} {
 			@include border-radius(7px,7px,7px,7px);
+			background-color: transparent;
 		}
 	}
 	button:hover,
@@ -107,7 +108,6 @@
 			line-height: 40px;
 			font-family: 'fontawesome';
 			color: $white;
-			speak: none;
 			-webkit-font-smoothing: antialiased;
 			content: "\f105";
 		}
@@ -126,7 +126,7 @@
 	.dl-menu {
 		margin: 0;
 		position: absolute;
-		width: 100%;
+		width: 70%;
 		border: 1px solid rgb(37, 1, 62);
 		max-width: 400px;
 		overflow-y: auto;
@@ -143,6 +143,7 @@
 		@media #{$notsmall} {
 			@include border-radius(7px,7px,7px,7px);
 			max-height: 650px;
+			width: 100%;
 		}
 	}
 	.dl-menu.dl-menu-toggle {
@@ -151,11 +152,14 @@
 		transition: all 0.3s ease;
 	}
 	.dl-menu.dl-menuopen {
-		opacity: 0.91;
+		opacity: 1;
 		pointer-events: auto;
 		-webkit-transform: translateY(0px);
 		-moz-transform: translateY(0px);
 		transform: translateY(0px);
+		@media #{$notsmall} {
+			opacity: 0.91;
+		}
 	}
 	.dl-submenu {
 		@include rounded(3px);
@@ -190,6 +194,7 @@ All this is done for any sub-level being entered.
 .dl-menu.dl-subview li.dl-subviewopen > .dl-submenu,
 .dl-menu.dl-subview li.dl-subviewopen > .dl-submenu > li {
 	display: block;
+	
 }
 /* Animation classes for moving out and in */
 .dl-menu.dl-animate-out {
