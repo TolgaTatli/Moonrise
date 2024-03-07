@@ -62,7 +62,7 @@ linkedin:          natashamattson
 #hackernews:        username
 
 # Gems
-plugins:
+gems:
     - jekyll-mentions
     - jekyll-feed
     - jekyll-sitemap
