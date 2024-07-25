@@ -72,7 +72,7 @@ plugins:
   - jekyll-include-cache
 
 jekyll-mentions:
-  base_url: https://github.com
+  base_url: https://aradfarahani.github.io/
 
 # Exclude list
 exclude:
