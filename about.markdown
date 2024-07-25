@@ -93,6 +93,18 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 * Geoelectrics (IP-RS)
 
 
+•	Founder & Research and Development Specialist, FEZtool, August 2023 – Present
+•	Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)
+•	Applied Data Science in Geology Instructor, Young Scholars Club, July 2024
+•	The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024
+•	Editorial Board Member, Imam Khomeini International University, September 2023 - June 2024 (Volunteering)
+•	Project Manager, ARYANIC, November 2022 - June 2023
+•	Product Manager & Head of Entrepreneurship Olympiad Department, GreenOly, August 2022 - January 2023
+•	Teacher, Young Scholars Club, April 2022 - May 2022
+•	Proofreader, Olgoo Publication, December 2021 - February 2022
+•	Teacher, National Organization for Development of Exceptional Talents (NODET), May 2021 - September 2021
+
+
 [Download Posters + infographics](/posters.pdf){: .btn}
 [Download Zamin Pouya 30](/Zamin Pouya 30.pdf){: .btn}
 
