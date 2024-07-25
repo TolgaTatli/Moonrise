@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Post with Image Feature"
 date: 2024-02-11
 excerpt: "A ton of text to test readability with image feature."
