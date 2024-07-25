@@ -1,7 +1,7 @@
 ---
 layout: post
 project: true
-title: "Post with Image Feature"
+title: "Geoelectricspy"
 date: 2024-04-8
 excerpt: "3D data visualization of Geoelectrics data"
 tags: [Data Visualization, Python, Geoelectrics, Geoelectricspy, project]
