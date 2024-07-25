@@ -123,6 +123,15 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 - Gold Medalist of the DrCT2021, Singapore International Math Contest Centre (SIMCC), July 2021
 - Silver Medalist of the 1st national Thinking & Entrepreneurship Olympiad (ITEO), December 2020
 - Silver Medalist of WMI 2015 World Mathematical Championships Selection, July 2015
+  
+## Language
+#### Persian (Native)
+#### English (Fluent) Preparing for the IELTS exam
+
+## Some fun facts about me :<br>
+-🎮 I like to play video games in my free time(rather to play indie game)<br>-🌍  I’m a huge fan of GIS, RS, and anything related to Earth Science (a bit of a nerd!). <br>-☕ I can’t start my day without a cup of coffee (Americano or V60)<br>-🎵 Nowadays I'm trying to play the Kamancheh (an Iranian Instrument(Jazz is my favorite genre!!!))
+
+## More
 
 [Download Posters + infographics](/posters.pdf){: .btn}
 [Download Zamin Pouya 30](/Zamin Pouya 30.pdf){: .btn}
