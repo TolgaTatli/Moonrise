@@ -35,6 +35,6 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 
 
 
-[Download Zamin Pouya 30](Zamin Pouya 30.pdf){: .btn}
+[Download Zamin Pouya 30](/Zamin Pouya 30.pdf){: .btn}
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
