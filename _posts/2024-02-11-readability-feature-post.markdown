@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 project: true
 title: "Post with Image Feature"
 date: 2024-04-8
