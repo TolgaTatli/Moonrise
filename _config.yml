@@ -1,7 +1,7 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Mahdi Farmahini Farahani (Arad)
+bio: "Undergraduate Geology Student @ KhU"
+description: "I’m a creative undergraduate Geology student with a passion for Hydrology/Hydrogeology, Climate Change, Geophysics, and Remote Sensing.I thoroughly enjoy Data Analysis and Data Visualization in Python."
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
@@ -36,12 +36,12 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
-facebook: username
-github-url: username
+email: aradfarahani@aol.com
+twitter: https://x.com/aradfarahani
+#facebook: username
+github-url: https://github.com/aradfarahani/
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: username
+linkedin: https://www.linkedin.com/in/aradfarahani/
 #xing: username
 instagram: username
 #lastfm: username
@@ -49,7 +49,7 @@ instagram: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
