@@ -3,7 +3,7 @@ layout: page
 title: About Me
 tags: [about, Arad, CV, Mahdi Farmahini Farahani]
 date: 2024-02-11
-comments: false
+comments: true
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%">
 
