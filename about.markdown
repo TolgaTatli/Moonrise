@@ -32,7 +32,9 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 ### Salam High School
 * Yousefabad Branch, Tehran, Iran
 * High School Diploma, Science, 2018-2021
+
 ## Publications
+
 ### Journal Articles
 1.	Designing the Green Belt in the southwest of Zahedan, Ovan scientific journal - June 2024 <a href="https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
 2.	Effects and social damage of fine dust, Ovan scientific journal - June 2024 <a href="https://www.researchgate.net/publication/381203362_Effects_and_social_damage_of_fine_dust?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
