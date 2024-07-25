@@ -5,7 +5,7 @@ title: "Geoelectricspy"
 date: 2024-04-8
 excerpt: "3D data visualization of Geoelectrics data"
 tags: [Data Visualization, Python, Geoelectrics, Geoelectricspy, project]
-feature: https://imgur.com/Nwjy86j
+feature: https://imgur.com/a/2WrpA6R
 comments: true
 ---
 
