@@ -92,18 +92,37 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 * Drone Surveying
 * Geoelectrics (IP-RS)
 
+## Teaching and Work Experiences
+*	Founder & Research and Development Specialist, FEZtool, August 2023 – Present
+*	Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)
+*	Applied Data Science in Geology Instructor, Young Scholars Club, July 2024
+*	The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024
+*	Editorial Board Member, Imam Khomeini International University, September 2023 - June 2024 (Volunteering)
+*	Project Manager, ARYANIC, November 2022 - June 2023
+*	Product Manager & Head of Entrepreneurship Olympiad Department, GreenOly, August 2022 - January 2023
+*	Teacher, Young Scholars Club, April 2022 - May 2022
+*	Proofreader, Olgoo Publication, December 2021 - February 2022
+*	Teacher, National Organization for Development of Exceptional Talents (NODET), May 2021 - September 2021
+  
+## Licenses & Certifications
+*	International Data Masterclass, United Nations Big Data, March 2024
+*	Application of Remote Sensing in Geology, Zawinas, January 2024
+*	Investigating practical issues in the exploration of Sulphide Deposits using the IP-RS method, National Iranian Geophysical Society (NIGS), December 2023
+*	AI and Climate Change, DeepLearning.AI (Offred by Coursera), October 2023
+*	Global Environmental Management, Technical University of Denmark (DTU) (Offred by Coursera), September 2023
+*	The Second Summer School of Geology, University of Tabriz, September 2023
+*	Remote Pilot Certification, Civil Aviation Authority of Islamic Republic of Iran, August 2023
+*	Unmanned Aerial Vehicle Surveying, Maan Academy, July 2023
+*	GIS, Mapping, and Spatial Analysis Specialization, University of Toronto (Offred by Coursera), June 2023
+*	Hydraulic Modeling of flood plains in Urban Rivers, Kharazmi University, June 2022
+*	CS50 Certificate, CS50 (Harvard University), September 2021
+*	Introduction to Data Analytics, IBM (Offred by Coursera), March 2021
 
-•	Founder & Research and Development Specialist, FEZtool, August 2023 – Present
-•	Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)
-•	Applied Data Science in Geology Instructor, Young Scholars Club, July 2024
-•	The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024
-•	Editorial Board Member, Imam Khomeini International University, September 2023 - June 2024 (Volunteering)
-•	Project Manager, ARYANIC, November 2022 - June 2023
-•	Product Manager & Head of Entrepreneurship Olympiad Department, GreenOly, August 2022 - January 2023
-•	Teacher, Young Scholars Club, April 2022 - May 2022
-•	Proofreader, Olgoo Publication, December 2021 - February 2022
-•	Teacher, National Organization for Development of Exceptional Talents (NODET), May 2021 - September 2021
-
+## Honors & Awards
+- Hydro 2024 Research-Oriented Summer School Full Scholarship, International Academy, May 2024
+- Gold Medalist of the DrCT2021, Singapore International Math Contest Centre (SIMCC), July 2021
+- Silver Medalist of the 1st national Thinking & Entrepreneurship Olympiad (ITEO), December 2020
+- Silver Medalist of WMI 2015 World Mathematical Championships Selection, July 2015
 
 [Download Posters + infographics](/posters.pdf){: .btn}
 [Download Zamin Pouya 30](/Zamin Pouya 30.pdf){: .btn}
