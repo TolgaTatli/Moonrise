@@ -24,6 +24,10 @@ I’m a creative undergraduate Geology student with a passion for Hydrology/Hydr
 ### Kharazmi University (KhU)
 * Faculty of Earth Sciences, Tehran, Iran  
 * Bachelor of Science, Geology, 2021-2025
+### Activities and Societies:
+* Chairperson of Geological Society of Kharazmi University: from June 2024 to Present
+* Vice President of Media at Geological Society of Kharazmi University: from Nov 2023 to Jun 2024
+As the Vice President of Media at the Geological University of Kharazmi University, I have a diverse range of responsibilities that keep me engaged and creative. I design posters for seminars, workshops, and various events, ensuring they are visually appealing and informative. Each month, I create infographics focused on Earth Science, making complex information accessible and engaging. I also organize monthly webinars under the banner of KhU GeoTalk, providing a platform for knowledge sharing and discussion. Additionally, I had the honor of designing the cover and layout for the 30th issue of the Specialized Scientific Quarterly, Zamin Pouya. These tasks not only enhance my skills but also contribute significantly to the academic and scientific community at our university. at the end of this page you can Accsess to the some of my work 
 
 ### Salam High School
 * Yousefabad Branch, Tehran, Iran
@@ -31,6 +35,6 @@ I’m a creative undergraduate Geology student with a passion for Hydrology/Hydr
 
 
 
-
+[Download Zamin Pouya 30](Zamin Pouya 30.pdf){: .btn}
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
