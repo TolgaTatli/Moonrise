@@ -9,7 +9,7 @@ comments: false
 
 <center> Hello everybody; I'm <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani"><b>Arad</b></a> and this is my Personal Website! </center>
 
-I’m a creative undergraduate Geology student with a passion for Hydrology/Hydrogeology, Climate Change, Geophysics, and Remote Sensing. I thoroughly enjoy Data Analysis and Data Visualization in Python. Since childhood, I’ve been fascinated by Math, and currently, I focus on Advanced Linear Algebra and Mathematical Modeling. I also have a love for music, video games, and outdoor activities like hiking. I enjoy connecting with people and learning about their cultures.
+I’m a creative undergraduate Geology student with a passion for Hydrology/Hydrogeology, Climate Change, Geophysics, and Remote Sensing. I thoroughly enjoy Data Analysis and Data Visualization in Python. Since childhood, I’ve been fascinated by Math, and currently, I focus on Advanced Linear Algebra and Mathematical Modeling. I also have a love for music, video games, and outdoor activities like hiking. I enjoy connecting with people and learning about their cultures. In Addition to these, I love to develope open-source softwares.
 
 ## Personal Information
 
@@ -32,9 +32,68 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 ### Salam High School
 * Yousefabad Branch, Tehran, Iran
 * High School Diploma, Science, 2018-2021
+## Publications
+### Journal Articles
+1.	Designing the Green Belt in the southwest of Zahedan, Ovan scientific journal - June 2024 <a href="https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+2.	Effects and social damage of fine dust, Ovan scientific journal - June 2024 <a href="https://www.researchgate.net/publication/381203362_Effects_and_social_damage_of_fine_dust?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+3.	Investigating the Accuracy of Hybrid models with wavelet transform in the simulation of Watershed Runoff, Journal of Water Management Modeling (JWMM) - June 2023 <a href="https://www.researchgate.net/publication/371328175_Investigating_the_Accuracy_of_Hybrid_Models_with_Wavelet_Transform_in_the_Forecast_of_Watershed_Runoff?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+
+### Conference papers
+1.	Visualization of Magnetometric data with Python (Case Study: Segregation of sedimentary units of Torud Playa), The 1st Conference on Applied Geophysics in Mines - March 2024 **(Oral)** <a href="https://www.researchgate.net/publication/378739800_Visualization_of_magnetometric_data_with_Python_case_study_Segregation_sedimentary_units_of_Torud_Playa?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+2.	Comparing the performance of the k-means clustering method and spectral indices in characterizing land use and land cover using remote sensing with Python (Case Study: Landsat 8 multi-spectral images), 2nd International Conference for Iranian Geography and Earth Sciences Students - February 2024 <a href="https://www.researchgate.net/publication/378307658_Comparing_the_performance_of_the_k-means_clustering_method_and_spectral_indices_in_characterizing_land_use_and_land_cover_using_remote_sensing_with_Python_case_study_Landsat_8_multi-spectral_images?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+3.	Application of PCA algorithm in Remote Sensing using Python programming language (Case Study: Landsat 9 multispectral images), 8th Symposium of Sedimentological Society of Iran - January 2024<a href="https://www.researchgate.net/publication/377838524_Application_of_PCA_algorithm_in_remote_sensing_using_Python_programming_language_case_study_Landsat_9_multispectral_images?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+4.	The importance of using Python programming language in Earth science, 26th Conference of Geological Society of Iran - September 2023 <a href="https://www.researchgate.net/publication/374914382_The_importance_of_using_Python_programming_language_in_Earth_science?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+
+### Books
+1.	Farsi translation of Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning, Tasir Publication - *(In Press)* 
+2.	Environmental Risk Management, Azargan Publication - August 2023 <a href="https://www.researchgate.net/publication/374919527_Environmental_Risk_Management?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
+
+## Skills
+### Programming Language
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,anaconda&theme=light&perline=5" />
+  </a>
+</p>
+
+### Markup Language 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,markdown&theme=light&perline=2" />
+  </a>
+</p>
+
+### Soft Skills
+* Positive Engagement
+* Critical Thinking
+* Management
+* Problem Solving
+* Collaborative
+
+### Software
+* ENVI
+* Global Mapper
+* ArcGIS
+* QGIS
+* Canva
+* Agisoft Metashape
+* Blender
+* 3dsMax
+* Google Earth Pro
+* Adobe Photoshop
+* Adobe Premiere Pro
+* Datamine
+* Microsoft Office
+* SAS.Planet
+* Corel Draw
+* Groundwater Vistas
+
+### Fieldwork Skills
+* Drone Surveying
+* Geoelectrics (IP-RS)
 
 
-
+[Download Posters + infographics](/posters.pdf){: .btn}
 [Download Zamin Pouya 30](/Zamin Pouya 30.pdf){: .btn}
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
