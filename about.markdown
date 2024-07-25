@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Me
+tags: [about, Arad, CV]
 date: 2024-02-11
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> Hello everybody; I'm <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani"><b>Arad</b></a> and this is my Personal Website! </center> 
+
 
 ## Features
 
