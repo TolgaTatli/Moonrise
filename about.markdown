@@ -15,8 +15,6 @@ I’m a creative undergraduate Geology student with a passion for Hydrology/Hydr
 
 * Phone: +98 912 7017410
 * Email: aradfarahani@aol.com
-* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arad.farahani)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aradfarahani)
 *  <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -30,6 +28,8 @@ I’m a creative undergraduate Geology student with a passion for Hydrology/Hydr
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0008-3800-8688
     </a>
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arad.farahani)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aradfarahani)
 * [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=kUQR1egAAAAJ&hl=en)
 * [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani)  
 
@@ -47,3 +47,4 @@ I’m a creative undergraduate Geology student with a passion for Hydrology/Hydr
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
