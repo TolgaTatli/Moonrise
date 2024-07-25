@@ -8,6 +8,9 @@ tags: [Data Visualization, Python, Geoelectrics, Geoelectricspy, project]
 feature: https://imgur.com/a/2WrpA6R.png
 comments: true
 ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10966815.svg)](https://doi.org/10.5281/zenodo.10966815)
+
+![ezgif-1-3c5033177d](https://github.com/aradfarahani/Geoelectricspy/assets/90475349/9932c675-414d-449e-84cf-e7ba028f8d93)
 
 # 🚀 New Milestone Achieved in Data Visualization!
 
