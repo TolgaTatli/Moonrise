@@ -25,11 +25,15 @@ Join us in this journey to explore the depths of our planet with the power of ma
 We’ll be rolling out more features and datasets, so keep an eye on our updates!
 
 ## 👨‍🏫 Meet the Instructors:
+
 ### Mahdi Farmahini Farahani (Me!)
+
 - Undergraduate Geology Student Kharazmi University
 - Founder of [FEZtool.com](FEZtool.com)
+
 ### Nima Raeisi
-- Graduate Hydrogeology Student Kharazmi University
+
+- Graduate Hydrogeology Student Kharazmi University<br>
 
 Together, they bring a wealth of knowledge and expertise, guiding you through the complexities of geological data analysis.<br><br>
 🔍 Find the repository [here](https://github.com/aradfarahani/KhUAdvanceGeoML).
