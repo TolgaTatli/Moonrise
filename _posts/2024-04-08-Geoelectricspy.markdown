@@ -5,7 +5,7 @@ title: "Geoelectricspy"
 date: 2024-04-8
 excerpt: "3D data visualization of Geoelectrics data"
 tags: [Data Visualization, Python, Geoelectrics, Geoelectricspy, project]
-feature: assets/img/Screenshot 2024-07-26 031259.png
+feature: assets/img/59.png
 comments: true
 ---
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10966815.svg)](https://doi.org/10.5281/zenodo.10966815)
