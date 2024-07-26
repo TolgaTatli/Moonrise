@@ -43,7 +43,7 @@ For any questions or concerns, please open an issue in the repository or contact
 
 ## Installation
 
-To use RGeospatial, you'll need to have R installed on your machine. Once R is installed, you can clone this repository and install the required packages.
+To use RGeospatial, you'll need to have R installed on your machine. Once R is installed, you can clone this repository and install the required packages. 
 
 ```r
 # Clone the repository
@@ -54,3 +54,4 @@ cd RGeospatial
 
 # Install required R packages
 install.packages(c("sp", "rgdal", "rgeos", "ggplot2"))
+```
