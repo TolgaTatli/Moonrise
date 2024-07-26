@@ -5,7 +5,7 @@ excerpt: "🌟 Exciting Times at IESO 2024 Preparation! 🌟"
 date:   2024-07-22 00:49:03 +0300
 categories: 
 tags: [Data, Python, IESO, Geology]
-feature: assets/img/WIN_20240720_12_18_38_Pro.jpg
+feature: assets/img/YSC.jfif
 ---
 I’m thrilled to be tutoring the Iran National Team for the International Earth Science Olympiad (IESO) 2024. These days, our team is deeply immersed in preparing for the competition, and I’m honored to be teaching data science to these brilliant young minds. <br>
 I am deeply grateful to the Young Scholars Club for their unwavering support and encouragement.<br>
