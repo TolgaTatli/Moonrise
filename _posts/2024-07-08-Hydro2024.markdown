@@ -1,4 +1,4 @@
----
++++---
 layout: post
 title:  "Hydro 2024, Lille, France"
 excerpt: "Pre-Phd Summer School"
@@ -41,4 +41,4 @@ It was a fantastic experience!
 The Hydro 2024 summer school at International Academy Lille Hauts-de-France allowed me to learn in an international academic environment. In addition to the cultural events in beautiful Lille, I socialized with students from other nations.<br>
 Learning new subjects was also enjoyable, and I intend to implement them in my future research. Here, I want to express my gratitude to Prof. Arnaud Gauthier, Dr. Sana Ounaies, Dr. philippe Le Coustumer, Prof. Isam Shahrour, Dr. Hande Okutan, Prof. Baghdad Ouddane, and Dr. Florence BOUVET-GEFFROY for their valuable lectures and all efforts during this summer school.
 
-![photo_2024-07-26_14-28-06](https://github.com/user-attachments/assets/fc5a8172-bb78-4590-a785-7781dd437eb9)
+![photo_2024-07-26_16-28-11](https://github.com/user-attachments/assets/965b8a5c-a635-4f04-a0bc-f65766be507e)
