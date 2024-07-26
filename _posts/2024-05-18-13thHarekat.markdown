@@ -5,11 +5,12 @@ excerpt: "Today was a remarkable day "
 date:   2024-05-18 00:49:03 +0300
 categories: 
 tags: [Harekat Festival, Earth Science, Kharazmi University, Geology]
-feature:
+feature: assets/img/1716051067219.jpeg
 ---
 Today was a remarkable day as I had the honor of representing the geology department at the 13th intra-university festival of Harekat. It was a day filled with enriching conversations, engaging presentations, and a deep dive into the fascinating world of geology.
 As the custodian of the geology booth, I presented the myriad activities spearheaded by our association in the past year under the auspices of Geological Society of Kharazmi University , From field trips that took us to the heart of nature’s geological wonders to seminars that brought together bright minds in the field, it’s been a year of growth and discovery.
 Explaining the complexities of geology to visitors from diverse academic backgrounds was a delightful challenge. It was an opportunity to distill our passion for the Earth’s secrets into engaging stories that resonate with everyone, regardless of their field of study.
 I’m grateful for the chance to spread the word about the importance of geology in our lives and to ignite curiosity in the minds of future scientists, engineers, and artists alike. Here’s to many more years of exploration and learning!<br> 
 
-/home/arad/Downloads/1716051068337.jpeg
+![1716051068337](https://github.com/user-attachments/assets/843eadfa-8b83-4954-a016-33a205e4364b)
+
