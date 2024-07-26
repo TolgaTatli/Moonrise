@@ -1,29 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-02-11 00:49:03 +0300
-categories: jekyll update
+title:  "IESO 2024 Preparation"
+excerpt: "🌟 Exciting Times at IESO 2024 Preparation! 🌟"
+date:   2024-07-22 00:49:03 +0300
+categories: 
+tags: [Data, Python, IESO, Geology]
+feature: assets/img/WIN_20240720_12_18_38_Pro.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I’m thrilled to be tutoring the Iran National Team for the International Earth Science Olympiad (IESO) 2024. These days, our team is deeply immersed in preparing for the competition, and I’m honored to be teaching data science to these brilliant young minds. <br>
+I am deeply grateful to the Young Scholars Club for their unwavering support and encouragement.<br>
+📊 From mastering data analysis techniques to exploring the fascinating world of geospatial analysis, our sessions have been incredibly productive and inspiring. The dedication and enthusiasm of our team members are truly commendable.<br>
+Here’s a picture of our recent class, where we delved into the intricacies of data science and its applications in earth sciences. 🌍🔍
+![WIN_20240720_12_18_38_Pro](https://github.com/user-attachments/assets/811721bf-2db1-4dd7-9c83-284ecafa7667)
