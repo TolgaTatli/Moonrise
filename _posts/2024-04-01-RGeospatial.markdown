@@ -45,7 +45,7 @@ For any questions or concerns, please open an issue in the repository or contact
 
 To use RGeospatial, you'll need to have R installed on your machine. Once R is installed, you can clone this repository and install the required packages. 
 
-```r
+```bash
 # Clone the repository
 git clone https://github.com/aradfarahani/RGeospatial.git
 
