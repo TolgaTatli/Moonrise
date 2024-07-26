@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "My First Oral Presentation"
+excerpt: "The 1st Conference on Applied Geophysics in Mines (Geomine)"
+date:   2024-03-05 00:49:03 +0300
+categories: 
+tags: [Harekat Festival, Earth Science, Kharazmi University, Geology]
+feature: assets/img/1709651810888.jpeg
+---
+
+![1709651810888](https://github.com/user-attachments/assets/3ed38646-9f6f-4d96-b43a-12fd61471677)
+
+Today was my first presentation in The 1st Conference on Applied Geophysics in Mines (Geomine) with the title 
+"Visualization of magnetometric data with Python (case study: Segregation of sedimentary units of Troud playa)" and I have a good feeling...
