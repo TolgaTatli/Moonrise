@@ -7,8 +7,11 @@ project: true
 tag: [Remote Sensing, Open Source, Python]
 comments: false
 feature: assets/img/1697726601196.png
-[![DOI](https://zenodo.org/badge/683561862.svg)](https://zenodo.org/doi/10.5281/zenodo.10027283) 
-![1697726597448](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b1414a92-9dff-4919-ab80-0292dfaca49b)
+---
+[![DOI](https://zenodo.org/badge/683561862.svg)](https://zenodo.org/doi/10.5281/zenodo.10027283)<br> 
+
+![1697726597448](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b1414a92-9dff-4919-ab80-0292dfaca49b)<br>
+
 # Exploring the World of Remote Sensing with Python
 
 Welcome to my Remote Sensing project! This project is dedicated to leveraging the power of Python to analyze and visualize remote sensing data. Remote sensing is a critical tool in Earth Science, allowing us to gather information about the Earth's surface without direct contact. This project aims to make remote sensing data more accessible and useful for researchers, students, and enthusiasts.
