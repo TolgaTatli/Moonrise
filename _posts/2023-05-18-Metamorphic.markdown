@@ -18,7 +18,7 @@ One of the highlights of our trip was visiting Alisadr Cave, a remarkable geolog
 - **Diversity**: The cave showcases a wide array of geological formations, offering a comprehensive look at cave development processes.
 - **Uniqueness**: Its distinctive features, including its extensive water system, set it apart from other cave systems globally.
 - **Accessibility**: Despite its impressive size, the cave is conveniently located and easily accessible, enhancing its appeal as a tourist attraction.
-- 
+
 ![photo_2024-07-27_23-54-18](https://github.com/user-attachments/assets/7087f122-dad8-4556-a72a-ad711ad3d2d8)
 
 From a geological perspective, Alisadr Cave provided us with valuable insights into the region's rock composition. The surrounding carbonate rocks are predominantly made of crystallized calcite, classified as weak marble. This observation allowed us to draw connections between our classroom studies on metamorphic rocks and real-world examples.
