@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hamadan, Hamadann, Iran"
-excerpt: "Metamorphic Rocks Field Trip"
+title:  "Metamorphic Rocks Field Trip, Hamadan, Iran"
+excerpt: " With Amazing Dr. Shahryar Mahmoudi"
 date:  2023-05-18 00:49:03 +0300
 categories: 
 tags: [Geology, Metamorphic, Kharazmi University, Iran]
