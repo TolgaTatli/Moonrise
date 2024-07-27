@@ -2,7 +2,7 @@
 layout: post
 title:  "Hamadan, Hamadann, Iran"
 excerpt: "Metamorphic Rocks Field Trip"
-date:   2023-05-18 00:49:03 +0300
+date:  2023-05-18 00:49:03 +0300
 categories: 
 tags: [Geology, Metamorphic, Kharazmi University, Iran]
 feature: assets/img/photo_2024-07-27_23-45-10.jpg
