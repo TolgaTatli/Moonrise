@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Sharif University of Technology, Tehran, Iran"
+excerpt: " 8th Winter Seminar Series"
+date:  2023-04-09 00:49:03 +0300
+categories: 
+tags: [Computer, WSS, Sharif University of Technology, Iran]
+feature: assets/img/WSS.jpg
+---
+
+# 8th Winter Seminar Series (WSS)
+
+![photo_2024-07-28_17-14-24](https://github.com/user-attachments/assets/39157ace-ba88-490c-883b-89755aeca4ea)
+
+In April, I had the exciting opportunity to attend the 8th Winter Seminar Series (WSS) on Advanced Topics in Computer Science and Engineering at Sharif University of Technology. This four-day event, held from April 6th to 9th, was a fantastic experience that brought together experts and enthusiasts in various fields of computer science.
+
+I attended the seminar with a diverse group of friends, each specializing in different scientific disciplines:
+
+- Zeinab, who holds an M.Sc. in Animal Biology from the University of Tehran
+- Mohammad Javad, a Ph.D. candidate in Mathematics (Topology) at Iran University of Science and Technology
+- Maryam, a Ph.D. candidate in Mathematics (Number Theory) at Tarbiat Modares University
+- And obviously Myself(Arad), An Undergraduate Geology Student at Kharazmi University
+
+![photo_2024-07-28_17-14-26](https://github.com/user-attachments/assets/a12ce98d-caa4-4619-b8cc-b1a9dfda21d1)
+
+
+The WSS provided us with a unique platform to explore cutting-edge research and engage in stimulating discussions about the latest advancements in computer science and engineering[2]. The event featured a series of seminars where speakers presented their research findings and ideas, workshops focused on practical subjects, and round table discussions that allowed for in-depth exploration of specific topics.
+
+What struck me most about the seminar was the breadth of topics covered and the interdisciplinary nature of many presentations. As I listened to talks on various aspects of computer science and its applications, I found myself increasingly drawn to the intersection of computational science and geoscience.
+
+This experience has sparked a new interest in me, and I'm now considering pursuing further studies that combine these two fields. The potential applications of computational methods in geoscience, such as modeling complex Earth systems, analyzing big data from geological and environmental sources, or developing algorithms for remote sensing and geospatial analysis, seem incredibly fascinating and impactful.
+
+Attending the WSS with friends from diverse scientific backgrounds also highlighted the importance of interdisciplinary collaboration in tackling complex real-world problems. It was enlightening to see how concepts from mathematics, biology, and computer science could converge to create innovative solutions.
+
+As I reflect on this experience, I'm grateful for the opportunity to have participated in such a high-quality event at Sharif University of Technology. The WSS has not only broadened my horizons but also helped shape my future academic aspirations. I'm excited about the possibility of contributing to the growing field at the intersection of computational science and geoscience, and I look forward to exploring this path further in my academic journey.
+
+![photo_2024-07-28_17-14-24 (2)](https://github.com/user-attachments/assets/1dc4ee7d-b516-499a-8b52-7a620483d808)
