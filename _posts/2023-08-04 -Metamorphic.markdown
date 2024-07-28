@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Metamorphic Rocks Field Trip, Hamadan, Iran"
-excerpt: " With Amazing Dr. Shahryar Mahmoudi"
+title:  Torud Playa, Isfahan, Iran"
+excerpt: "Magnetometry Exorience on the Hottest Summer Day"
 date:  2023-08-04 00:49:03 +0300
 categories: 
-tags: [Geology, Metamorphic, Kharazmi University, Iran]
+tags: [Geology, Sediment, Torud, Iran]
 feature: assets/img/photo_2024-07-28_04-34-51.jpg
 ---
 
