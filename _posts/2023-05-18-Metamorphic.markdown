@@ -27,7 +27,7 @@ During our field trip, we also visited other geosites in the Hamadan area. These
 
 ![photo_2024-07-27_23-56-42](https://github.com/user-attachments/assets/bcc7c2df-99b7-49e1-b070-6a782efc2228)
 
-The Hamadan region, rich in geological wonders, serves as an excellent base for developing geotourism. Our field trip highlighted how natural features can be harnessed for both scientific study and tourism purposes. We learned that geotourism, which focuses specifically on geology and landscape, can play a crucial role in preserving and promoting geological heritage while supporting local economies[1].
+The Hamadan region, rich in geological wonders, serves as an excellent base for developing geotourism. Our field trip highlighted how natural features can be harnessed for both scientific study and tourism purposes. We learned that geotourism, which focuses specifically on geology and landscape, can play a crucial role in preserving and promoting geological heritage while supporting local economies.
 
 Dr. Mahmoudi's expertise guided us through the complex geological history of the area, helping us understand the formation of metamorphic rocks and their significance in the broader geological context. This hands-on experience in the field complemented our classroom learning, providing a deeper appreciation for the subject.
 
