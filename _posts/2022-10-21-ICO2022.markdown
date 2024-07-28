@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ICO 2022, Tehran, Iran"
+excerpt: "Iranian Combinatorics Olympiad"
+date:  2022-10-21 00:49:03 +0300
+categories: 
+tags: [Computer, ICO, Iran]
+feature: assets/img/photo_2024-07-28_21-29-59.jpg
+---
+# ICO 2022
+
+![photo_2024-07-28_21-29-59](https://github.com/user-attachments/assets/2dbb0c3a-1d1d-454d-886b-c0194bdc6318)
+
+Today as a BABAEEE Team member we Help ICO team to organize the ICO 2022.
