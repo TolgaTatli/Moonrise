@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Turning Challenges into Opportunities:"
+title:  "Turning Challenges into Opportunities"
 excerpt: "A Pythonic Solution to Geospatial Problems"
 date:   2024-04-23 00:49:03 +0300
 categories: 
