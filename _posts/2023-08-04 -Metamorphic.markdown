@@ -38,6 +38,8 @@ We arrived in the small town nearest to our study area, greeted by the shimmerin
 
 As we ventured into the Torud Playa, the landscape transformed into an otherworldly expanse of sand and rock. The magnetometry equipment, carefully calibrated for the extreme heat, beeped steadily as we traversed the study area. The sun beat down mercilessly, and despite our protective gear, we could feel the intensity of its rays. In the distance, mirages danced on the horizon, creating illusory lakes that seemed to mock our parched state.
 
+![photo_2024-07-28_04-34-44](https://github.com/user-attachments/assets/1e3eef76-3670-41d7-a7fe-57a9a50831fb)
+
 ### Day 5-6: Data Collection and Observations
 
 The next two days were a blur of data collection, soil sampling, and careful observations. We noted the presence of salt flats and dry lake beds, potential indicators of mineral-rich deposits below the surface. The extreme heat made work challenging, with frequent breaks necessary to prevent heat exhaustion. At night, the temperature drop was dramatic, offering a brief respite and a chance to analyze our preliminary findings under a canopy of stars unmarred by light pollution.
