@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IESO 2024 Preparation"
-excerpt: "🌟 Exciting Times at IESO 2024 Preparation! 🌟"
+excerpt: "Exciting Times at IESO 2024 Preparation!"
 date:   2024-07-22 00:49:03 +0300
 categories: 
 tags: [Data, Python, IESO, Geology]
