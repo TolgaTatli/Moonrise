@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hydro 2024, Lille, France"
-excerpt: "Pre-Phd Summer School"
+excerpt: "Pre-PhD Summer School"
 date:   2024-07-08 00:49:03 +0300
 categories: 
 tags: [Hydrology, Hydrogeology, Summer School, Geology]
