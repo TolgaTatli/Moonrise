@@ -15,7 +15,7 @@ As part of our Sedimentology Course at Kharazmi University, we had the incredibl
 
 Our first expedition took us to Taleqan on October 27, 2022. The crisp autumn air added to the excitement as we set out to explore the geological wonders of this region. Taleqan, with its diverse landscape, provided a perfect outdoor laboratory for our sedimentology studies. We examined various rock formations, discussing their origins and the processes that shaped them over millions of years.
 
-![phot![photo_2024-07-28_20-42-09](https://github.com/user-attachments/assets/3f8a31a6-f462-4fce-9c31-bcbf4e0876fa)
+![photo_2024-07-28_20-42-09](https://github.com/user-attachments/assets/3f8a31a6-f462-4fce-9c31-bcbf4e0876fa)
 
 
 Less than a month later, on November 20, 2022, we found ourselves in Qom for our second field trip. The contrast between Taleqan and Qom was striking, offering us a chance to compare and contrast different geological settings. In Qom, we focused on the unique sedimentary structures that make this area a goldmine for geological research.
