@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "13th intra-university festival of Harekat"
+title:  "13th Intra-University Festival of Harekat"
 excerpt: "Today was a remarkable day "
 date:   2024-05-18 00:49:03 +0300
 categories: 
