@@ -24,7 +24,7 @@ I attended the seminar with a diverse group of friends, each specializing in dif
 ![photo_2024-07-28_17-14-26](https://github.com/user-attachments/assets/a12ce98d-caa4-4619-b8cc-b1a9dfda21d1)
 
 
-The WSS provided us with a unique platform to explore cutting-edge research and engage in stimulating discussions about the latest advancements in computer science and engineering[2]. The event featured a series of seminars where speakers presented their research findings and ideas, workshops focused on practical subjects, and round table discussions that allowed for in-depth exploration of specific topics.
+The WSS provided us with a unique platform to explore cutting-edge research and engage in stimulating discussions about the latest advancements in computer science and engineerin. The event featured a series of seminars where speakers presented their research findings and ideas, workshops focused on practical subjects, and round table discussions that allowed for in-depth exploration of specific topics.
 
 What struck me most about the seminar was the breadth of topics covered and the interdisciplinary nature of many presentations. As I listened to talks on various aspects of computer science and its applications, I found myself increasingly drawn to the intersection of computational science and geoscience.
 
