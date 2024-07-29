@@ -7,7 +7,7 @@ comments: true
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%">
 
-<center> Hello everyone; My name is Mahdi Farmahini Farahani But, everybody calls Me <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani"><b>Arad</b></a> and this is my Personal Website! </center>
+<center> Hello everyone; My name is Mahdi Farmahini Farahani But, everybody calls Me <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani"><b>Arad</b></a> and this is my Personal Website! You can find detailed stories and my journey for every field trip, along with comprehensive explanations of my projects.</center>
 
 I’m a creative undergraduate Geology student with a passion for Hydrology/Hydrogeology, Climate Change, Geophysics, and Remote Sensing. I thoroughly enjoy Data Analysis and Data Visualization in Python. Since childhood, I’ve been fascinated by Math, and currently, I focus on Advanced Linear Algebra and Mathematical Modeling. I also have a love for music, video games, and outdoor activities like hiking. I enjoy connecting with people and learning about their cultures. In Addition to these, I love to develope open-source softwares.
 
