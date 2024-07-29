@@ -39,6 +39,7 @@ To handle and analyze this extensive dataset, we used Xarray, an open-source Pyt
 - **Snow Cover Changes**: There was a noticeable decline in snow cover, particularly in the mountainous regions, which has implications for water storage and supply.
 - **Precipitation Patterns**: Changes in precipitation patterns were observed, with some regions experiencing increased rainfall while others faced prolonged dry spells.
 
+![1693444038279](https://github.com/user-attachments/assets/84cf252b-e8de-44a9-bc23-6affd6e3964e)
 ![image](https://github.com/user-attachments/assets/b234e9b9-28ee-4a7b-83db-f3cc56d5e151)
 ![image](https://github.com/user-attachments/assets/1507d8f7-02b9-4b25-abd7-773da64735f6)
 ![image](https://github.com/user-attachments/assets/02c36b3a-b45b-4a47-8091-eb809df12ae9)
