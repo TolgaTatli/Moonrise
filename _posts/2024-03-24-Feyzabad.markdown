@@ -9,7 +9,7 @@ feature: assets/img/Screenshot from 2024-07-29 16-29-18.png
 ---
 ![image](https://github.com/user-attachments/assets/6b430b03-a0a4-4d2d-9b03-11d4d6eb301b)
 
-During the Nowruz holidays, my colleagues and I from FEZtool(Feztool.com) embarked on a cultural visit to the charming village of Feyzabad, located in Ramsheh Rural District, Jarqavieh Olya District, Isfahan County, Isfahan Province, Iran. This trip was a delightful blend of cultural exploration and team bonding, set against the backdrop of one of Iran's most picturesque regions.
+During the Nowruz holidays, my colleagues and I from [FEZtool](Feztool.com) embarked on a cultural visit to the charming village of Feyzabad, located in Ramsheh Rural District, Jarqavieh Olya District, Isfahan County, Isfahan Province, Iran. This trip was a delightful blend of cultural exploration and team bonding, set against the backdrop of one of Iran's most picturesque regions.
 
 Feyzabad, with its serene landscapes and rich cultural heritage, provided the perfect setting for our Nowruz celebration. As we arrived, we were greeted by the warm hospitality of the local villagers, who welcomed us with open arms and shared their traditions and stories. The village's rustic charm and the simplicity of life there were truly refreshing.
 
