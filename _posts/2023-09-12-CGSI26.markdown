@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Urmia University, West Azerbaijan, Iran"
+excerpt: "26th Conference of Geological Society of Iran"
+date:  2023-09-12 00:49:03 +0300
+categories: 
+tags: [Geology, Urmia, CGSI, Iran]
+feature: assets/img/photo_2024-07-29_13-31-48.jpg
+---
+
+## 26th Conference of Geological Society of Iran
+
+On September 12, 2023, I embarked on an exciting journey to Urmia to attend the 26th Conference of the Geological Society of Iran at Urmia University. This trip was particularly special for me as I was presenting my very first conference poster, titled "The Importance of Using Python Programming Language in Earth Sciences." The anticipation and excitement of sharing my work with fellow geologists and researchers were palpable.
+
+Upon arriving in Urmia, I was immediately struck by the city's rich history and vibrant culture. The conference venue was abuzz with activity, with attendees from all over the country and beyond, eager to exchange knowledge and ideas. My poster session was scheduled for the afternoon, so I spent the morning exploring the conference exhibits and attending a few intriguing presentations.
+
+As the time for the memorial photo approached, I found myself in a cozy café nearby, engrossed in my Magnetometry data analysis project. The café, with its warm ambiance and the aroma of freshly brewed coffee, provided the perfect backdrop for some focused work. I was so absorbed in my project that I almost lost track of time. So unfortunately I have to share my Order In cafe.
+
+![image](https://github.com/user-attachments/assets/80eaab04-cbc6-4986-94ca-8ddc2df841ba)
+
+
+The highlight of my trip, apart from the conference, was visiting the Saint Mary Church in Urmia. This ancient church, with its stunning architecture and serene atmosphere, offered a moment of tranquility amidst the bustling conference activities. Walking through its hallowed halls, I couldn't help but reflect on the intersection of history, culture, and science that this trip represented.
+
+![image](https://github.com/user-attachments/assets/2eb68dca-bc38-4d4b-b4cb-136536cab6d3)
+
+
+Overall, my trip to Urmia was a blend of professional growth and personal enrichment. Presenting my poster was a milestone in my academic journey, and the experiences I had, from working in a quaint café to exploring historical landmarks, made it truly unforgettable.
+
+![image](https://github.com/user-attachments/assets/3ff9eab3-e55b-4c3e-a063-87d0cdff6e96)
+
+
+
