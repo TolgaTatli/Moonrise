@@ -95,14 +95,17 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 * Geoelectrics (IP-RS)
 
 ## Teaching and Work Experiences
-*	Founder & Research and Development Specialist, FEZtool, August 2023 – Present
-*	Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)
-*	Applied Data Science in Geology Instructor, Young Scholars Club, July 2024
-*	The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024
-*	Editorial Board Member, Imam Khomeini International University, September 2023 - June 2024 (Volunteering)
+*	[Founder & Research and Development Specialist, FEZtool, August 2023 – Present](https://aradfarahani.com//Remote-Sensing/)
+*	[Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)](https://aradfarahani.com//BABAEEE2/)
+*	[Teacher, Iranian Young Scholars Club(IrYSC)](![irysc](https://github.com/user-attachments/assets/5028b69b-f1c4-401e-94fe-477511dfe317)
+)
+*	[Applied Data Science in Geology Instructor, Young Scholars Club, July 2024](https://aradfarahani.com//IESO2024/)
+*	[The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024](https://aradfarahani.com//KhUAdvanceGeoML/)
+*	[Editorial Board Member, Imam Khomeini International University, September 2023 - June 2024 (Volunteering)](https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan)
 *	Project Manager, ARYANIC, November 2022 - June 2023
-*	Product Manager & Head of Entrepreneurship Olympiad Department, GreenOly, August 2022 - January 2023
-*	Teacher, Young Scholars Club, April 2022 - May 2022
+*	[Product Manager & Head of Entrepreneurship Olympiad Department, GreenOly, August 2022 - January 2023](https://aradfarahani.com//MOOC/)
+*	[Teacher, Young Scholars Club, April 2022 - May 2022](![1688088891723](https://github.com/user-attachments/assets/971c9f28-1ff0-45d9-bdf3-5f815472760b)
+)
 *	Proofreader, Olgoo Publication, December 2021 - February 2022
 *	Teacher, National Organization for Development of Exceptional Talents (NODET), May 2021 - September 2021
   
@@ -122,14 +125,28 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 
 ## Honors & Awards
 - Hydro 2024 Research-Oriented Summer School Full Scholarship, International Academy, May 2024
+- Winner of the Geological Society of Kharazmi University logo design contest, Kharazmi University,February 2024
+- Received a 2500DKK grant from the Copenhagen University for a research visit, Copenhagen University, December 2023
 - Gold Medalist of the DrCT2021, Singapore International Math Contest Centre (SIMCC), July 2021
 - Silver Medalist of the 1st national Thinking & Entrepreneurship Olympiad (ITEO), December 2020
+- Acceptance of the first Stage of the 1st national Earth Science Olympiad (IrESO), January 2020
+- Acceptance of the first Stage of the 22nd national Biology Olympiad (IrBO),January 2019
+- Honorary diploma in the first Super Championship cup of Tehran Math Home, November 2017
+- Scholarship of Elite Club of Tehran Math home, September 2017
 - Silver Medalist of WMI 2015 World Mathematical Championships Selection, July 2015
+- Award for the best student of the Young Mathematicians Association, June 2015
   
 ## Language
 #### Persian (Native)
 #### English (Fluent) Preparing for the IELTS exam
 
+## Organizations
+
+* Geological Society of Iran, Since November 2021
+* Iran's National Elites Foundation (INEF), Since December 2020
+* Young Scholars Club (YSC), Since December 2020
+* UNESCO Innovation and Technology Club-IranUNESCO Innovation and Technology Club-Iran, Octobor 2021 - Octobor 2022
+  
 ## Some fun facts about me :<br>
 -🎮 I like to play video games in my free time(rather to play indie game)<br>-🌍  I’m a huge fan of GIS, RS, and anything related to Earth Science (a bit of a nerd!). <br>-☕ I can’t start my day without a cup of coffee (Americano or V60)<br>-🎵 Nowadays I'm trying to play the Kamancheh (an Iranian Instrument(Jazz is my favorite genre!!!))
 
