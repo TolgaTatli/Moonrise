@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Torud Playa, Isfahan, Iran"
-excerpt: "Magnetometry Exorience on the Hottest Summer Days"
+excerpt: "Magnetometry Exprience on the Hottest Summer Days"
 date:  2023-08-04 00:49:03 +0300
 categories: 
 tags: [Geology, Sediment, Torud, Iran]
