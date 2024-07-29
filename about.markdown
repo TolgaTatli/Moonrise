@@ -97,15 +97,13 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 ## Teaching and Work Experiences
 *	[Founder & Research and Development Specialist, FEZtool, August 2023 – Present](https://aradfarahani.com//Remote-Sensing/)
 *	[Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)](https://aradfarahani.com//BABAEEE2/)
-*	[Teacher, Iranian Young Scholars Club(IrYSC)](![irysc](https://github.com/user-attachments/assets/5028b69b-f1c4-401e-94fe-477511dfe317)
-)
+*	Teacher, Iranian Young Scholars Club(IrYSC)
 *	[Applied Data Science in Geology Instructor, Young Scholars Club, July 2024](https://aradfarahani.com//IESO2024/)
 *	[The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024](https://aradfarahani.com//KhUAdvanceGeoML/)
 *	[Editorial Board Member, Imam Khomeini International University, September 2023 - June 2024 (Volunteering)](https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan)
 *	Project Manager, ARYANIC, November 2022 - June 2023
 *	[Product Manager & Head of Entrepreneurship Olympiad Department, GreenOly, August 2022 - January 2023](https://aradfarahani.com//MOOC/)
-*	[Teacher, Young Scholars Club, April 2022 - May 2022](![1688088891723](https://github.com/user-attachments/assets/971c9f28-1ff0-45d9-bdf3-5f815472760b)
-)
+*	Teacher, Young Scholars Club, April 2022 - May 2022
 *	Proofreader, Olgoo Publication, December 2021 - February 2022
 *	Teacher, National Organization for Development of Exceptional Talents (NODET), May 2021 - September 2021
   
