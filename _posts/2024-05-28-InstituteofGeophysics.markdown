@@ -7,9 +7,6 @@ categories:
 tags: [Geology, Seismic, Geophysics, Iran]
 feature: assets/img/gr.jpg
 ---
-Absolutely! Here's an extended version for your blog:
-
----
 
 During this semester, I had the privilege of taking a Geophysics course with Dr. Misaghi, which was primarily focused on Seismology. This course turned out to be one of the most enjoyable and enriching experiences of my academic journey. Dr. Misaghi's passion for the subject was infectious, and his teaching methods made complex concepts accessible and engaging.
 
