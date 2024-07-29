@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Feyzabad village, Ramsheh Rural District, Jarqavieh Olya District, Isfahan County, Isfahan Province, Iran"
-excerpt: "Our Trip For a CuLtural Visit"
+excerpt: "Our Trip For a Cultural Visit"
 date:   2024-03-24 00:49:03 +0300
 categories: 
 tags: [Feyzabad, FEZtool, Iran, CuLtural Visit]
