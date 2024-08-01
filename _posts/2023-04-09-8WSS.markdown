@@ -8,7 +8,7 @@ tags: [Computer, WSS, Sharif University of Technology, Iran]
 feature: assets/img/WSS.jpg
 ---
 
-# 8th Winter Seminar Series (WSS)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=212&color=gradient&text=8th%20Winter%20Seminar%20Series%20-nl-(WSS)&reversal=false&fontColor=000000&fontSize=55&strokeWidth=0&animation=fadeIn&descSize=59" width="100%">
 
 ![photo_2024-07-28_17-14-24](https://github.com/user-attachments/assets/39157ace-ba88-490c-883b-89755aeca4ea)
 
