@@ -8,6 +8,8 @@ tags: [Geology, Sediment, Torud, Iran]
 feature: assets/img/photo_2024-07-28_04-34-51.jpg
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Journey%20to%20Torud%20Playa-nl-%20Field%20Trip%20in%20the%20Lut%20Plain&fontColor=000" width="100%">
+
 ![moonrise-background](https://github.com/user-attachments/assets/4abcce46-6465-4acc-b32a-525e00dc66be)
 
 ## Journey to Torud Playa: A Field Trip in the Lut Plain
