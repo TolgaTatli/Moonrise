@@ -8,6 +8,9 @@ tags: [Geology, Urmia, CGSI, Iran]
 feature: assets/img/photo_2024-07-29_13-31-48.jpg
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Geological%20Society%20of%20Iran" width="100%">
+
+
 ## 26th Conference of Geological Society of Iran
 
 On September 12, 2023, I embarked on an exciting journey to Urmia to attend the 26th Conference of the Geological Society of Iran at Urmia University. This trip was particularly special for me as I was presenting my very first conference poster, titled "The Importance of Using Python Programming Language in Earth Sciences." The anticipation and excitement of sharing my work with fellow geologists and researchers were palpable.
