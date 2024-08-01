@@ -7,6 +7,9 @@ categories:
 tags: [Data, Python, IESO, Geology]
 feature: assets/img/YSC.jfif
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=slice&height=212&color=gradient&text=IESO%202024&reversal=false&fontColor=000000&fontSize=55&strokeWidth=0&animation=fadeIn&descSize=59&fontAlign=50&descAlign=50&descAlignY=50" width="100%">
+
 I’m thrilled to be tutoring the Iran National Team for the International Earth Science Olympiad (IESO) 2024. These days, our team is deeply immersed in preparing for the competition, and I’m honored to be teaching data science to these brilliant young minds. <br>
 I am deeply grateful to the Young Scholars Club for their unwavering support and encouragement.<br>
 📊 From mastering data analysis techniques to exploring the fascinating world of geospatial analysis, our sessions have been incredibly productive and inspiring. The dedication and enthusiasm of our team members are truly commendable.<br>
