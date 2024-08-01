@@ -8,6 +8,9 @@ tags: [Geology, Sedimentology, Tabriz, Iran]
 feature: assets/img/TABRIZ.jpg
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Geology%20Summer%20School%20-nl-Tabriz%20University" width="100%">
+
+
 ## 2nd Geology Summer School Offered by Tabriz University
 
 ![image](https://github.com/user-attachments/assets/29202cb7-2d1f-421f-87fd-70f9ecdee27f)
