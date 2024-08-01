@@ -7,6 +7,8 @@ categories:
 tags: [talent acquisition, NGO, BABAEEE, Olympiad]
 feature: assets/img/71522339.png
 ---
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Happy%20Birth%20Day&fontColor=fff" width="100%">
+
 
 ![photo_2024-07-28_23-51-20](https://github.com/user-attachments/assets/d767574f-0df5-4bc2-ba22-0ac43af14d33)
 
