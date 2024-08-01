@@ -8,6 +8,9 @@ tags: [Hydrology, Sedimentology, Field Trip, Geology]
 feature: assets/img/ffffff.jpg
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=My%20First%20Feild%20Trips&fontColor=fff&animation=scaleIn" width="100%">
+
+
 **A Geological Adventure: Field Trips with Dr. Khalil Rezaei**
 
 As part of our Sedimentology Course at Kharazmi University, we had the incredible opportunity to embark on two exciting field trips led by our professor, Dr. Khalil Rezaei. Dr. Rezaei, known for his expertise in geology and geomorphology, brought our textbook knowledge to life through these hands-on experiences.
