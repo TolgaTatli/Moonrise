@@ -8,6 +8,9 @@ tags: [Kharazmi University, Remote Sensing, Geology, Iran]
 feature: assets/img/photo_2024-07-29_21-43-56.jpg
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=IGRSS5" width="100%">
+
+
 ![photo_2024-07-29_21-43-55](https://github.com/user-attachments/assets/cc5fddc9-fe7a-4e8f-ab3d-5aeb735b8384)
 
 [**The 5th National Conference of Iranian Geological Remote Sensing Society**](https://igrss5.khu.ac.ir/)
