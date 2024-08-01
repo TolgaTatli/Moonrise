@@ -8,6 +8,8 @@ tags: [talent acquisition, NGO, BABAEEE, Olympiad]
 feature: assets/img/71522339.png
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=A%20Scholarship%20offered%20by%20-nl-BABAEEE&fontColor=fff" width="100%">
+
 **Celebrating Success: Scholarsheep Scholars Shine in Iranian Informatics Olympiad Stage 2**
 
 ![photo_2024-07-28_23-49-36](https://github.com/user-attachments/assets/d3164c50-3de1-4c25-be93-88d4f44cd601)
