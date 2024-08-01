@@ -8,6 +8,8 @@ tags: [Omelette, Iran, Kish]
 feature: assets/img/photo_2024-07-28_21-16-44.jpg
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Omelette?%20No!&fontColor=fff&animation=fadeIn" width="100%">
+
 **A Spontaneous Adventure to Kish Island**
 
 ![photo_2024-07-28_21-17-45](https://github.com/user-attachments/assets/578d08ea-be2e-479e-b191-9acf9b45e6ec)
