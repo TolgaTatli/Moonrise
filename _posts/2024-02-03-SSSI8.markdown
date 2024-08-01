@@ -8,6 +8,9 @@ tags: [Geology, Sediment, University of Hormazgan, Iran]
 feature: assets/img/1706988403542.jpeg
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=A%20Journey%20to%20-nl-The%20Magical%20Island&fontColor=fff" width="100%">
+
+
 ![photo_2024-07-27_04-36-49](https://github.com/user-attachments/assets/242f1b60-39f9-4bb9-8eb1-eb381fa43894)
 
 # 8th Symposium of Sedimentological Society of Iran
