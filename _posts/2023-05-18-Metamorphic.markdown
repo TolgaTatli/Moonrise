@@ -7,6 +7,10 @@ categories:
 tags: [Geology, Metamorphic, Kharazmi University, Iran]
 feature: assets/img/photo_2024-07-27_23-45-10.jpg
 ---
+
+
+<img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=green&text=Metamorphic%20Rocks&fontColor=fff&animation=fadeIn" width="100%">
+
 # Metamorphic Rocks Field Trip With [Dr. Shahryar Mahmoudi](https://khu.ac.ir/cv/251/Shahryar-Mahmoudi&print=1)
 
 ![photo_2024-07-27_23-51-55](https://github.com/user-attachments/assets/b4717277-1ab1-435a-857e-512d2af31989)
