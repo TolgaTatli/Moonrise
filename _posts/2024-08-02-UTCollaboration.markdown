@@ -46,5 +46,5 @@ Stay tuned for more updates and details about our upcoming events and initiative
 
 ---
 Mahdi Farmahini Farahani  
-Chairperson, Geological Society of Kharazmi University
+Chairperson, Geological Society of Kharazmi University<br>
 E.mail: mahdifarmahini@khu.ac.ir
