@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "My book has been published"
+excerpt: "Farsi translation of Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning"
+date:   2024-08-05 00:49:03 +0300
+categories: 
+tags: [Kharazmi University, Geology, Python, Book]
+feature: assets/img/1722949237566.jpeg
+---
+
+![AE220CA3-4C4E-42EC-8931-15F15A85DABE](https://github.com/user-attachments/assets/9101596e-62a9-4748-9bf1-2e55134d7113)
+
+I’m thrilled to announce that my book, a Farsi translation of “Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning,” has been published by Tasir Publication! 📚✨
+This book is a comprehensive guide for anyone interested in leveraging Python for data analysis in Earth sciences, covering everything from descriptive statistics to advanced machine learning techniques.
+A huge thank you to everyone who supported me throughout this journey. Special thanks to Dr.khalil rezaei and Erfan Karimzadeh, my fellow translators, for their invaluable contributions. 🙏 <br>
+
+Looking forward to hearing your thoughts and feedback on the book!
+
+For more click [Here](https://tasir.pub/product/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%a7%db%8c-%d8%a8%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%d8%af%d8%b1-%d8%aa%d8%ad%d9%84%db%8c%d9%84-%d8%af%d8%a7%d8%af%d9%87-%d9%87%d8%a7%db%8c-%d8%b9%d9%84%d9%88/)
