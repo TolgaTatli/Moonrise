@@ -5,6 +5,7 @@ excerpt: "Farsi translation of Introduction to Python in Earth Science Data Anal
 date:   2024-08-05 00:49:03 +0300
 categories: 
 tags: [Kharazmi University, Geology, Python, Book]
+comments: true
 feature: assets/img/1722949237566.jpeg
 ---
 
