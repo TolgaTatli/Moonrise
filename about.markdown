@@ -18,6 +18,8 @@ I’m a creative undergraduate Geology student with a passion for Hydrology/Hydr
 * ORCID: <a href="https://orcid.org/0009-0008-3800-8688">0009-0008-3800-8688</a>
 * ResearchGate: <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani">Mahdi Farmahini Farahani</a>
 * LinkedIn: <a href="https://linkedin.com/in/aradfarahani">Mahdi Farmahini Farahani</a>
+* GitHub: <a href="https://github.com/aradfarahani">Mahdi Farmahini Farahani</a>
+* LeetCode: <a href="https://leetcode.com/u/aradfarahani/">Mahdi Farmahini Farahani</a>
 * Google Scholar: <a href="https://scholar.google.com/citations?user=kUQR1egAAAAJ&hl=en">Mahdi Farmahini Farahani</a>
 
 ## Education
