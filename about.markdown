@@ -7,6 +7,8 @@ comments: true
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%">
 
+[![committers.top badge](https://user-badge.committers.top/iran/aradfarahani.svg)](https://user-badge.committers.top/iran/aradfarahani) [![LeetCode user aradfarahani](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faradfarahani&logo=leetcode&logoColor=yellow)](https://leetcode.com/aradfarahani/) [![LeetCode user aradfarahani](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faradfarahani&logo=leetcode&logoColor=yellow)](https://leetcode.com/aradfarahani/)
+
 <center> Hello everyone; My name is Mahdi Farmahini Farahani But, everybody calls Me <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani"><b>Arad</b></a> and this is my Personal Website! You can find detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. Enjoy exploring!</center>
 
 I’m a creative undergraduate Geology student with a passion for Hydrology/Hydrogeology, Climate Change, Geophysics, and Remote Sensing. I thoroughly enjoy Data Analysis and Data Visualization in Python. Since childhood, I’ve been fascinated by Math, and currently, I focus on Advanced Linear Algebra and Mathematical Modeling. I also have a love for music, video games, and outdoor activities like hiking. I enjoy connecting with people and learning about their cultures. In Addition to these, I love to develope open-source softwares.
