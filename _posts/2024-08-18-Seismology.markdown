@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seismology"
-date:   2024-08-18
+date:   2024-08-17
 excerpt: "Coming Soon"
 project: true
 tag: [Seismology, earthquake, seismic, geophysics]
