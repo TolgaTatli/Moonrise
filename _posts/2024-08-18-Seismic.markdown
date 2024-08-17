@@ -6,7 +6,7 @@ excerpt: "Coming Soon"
 project: true
 tag: [Seismology, earthquake, seismic, geophysics]
 comments: false
-feature: assets/img/
+feature: false
 ---
 
 # Seismology
