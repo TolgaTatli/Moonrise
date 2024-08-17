@@ -8,6 +8,7 @@ tag: [Seismology, earthquake, seismic, geophysics]
 comments: false
 feature: assets/img/
 ---
+
 # Seismology
 
 <!-- Include the seismicity map HTML file -->
